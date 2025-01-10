@@ -1,0 +1,12 @@
+.head{
+  font-size: x-large;
+  
+  
+}.header{text-align: center;}
+.two{
+  display: flex;
+  justify-content: space-between;
+}
+.photo{
+
+}
